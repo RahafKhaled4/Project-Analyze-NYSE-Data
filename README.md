@@ -11,7 +11,7 @@ For the final project, you will conduct three tasks:
 - create a Financial Forecasting Model using three scenarios.
 
 # My Project
-Slides:
+# - Slides:
 ![Screenshot (1622)](https://user-images.githubusercontent.com/70021800/230787207-28b4c8a5-8c1f-4d9d-b30a-e8dc9106d7fc.png)
 
  # - Data Visualizations and Summary Statistics
